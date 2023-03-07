@@ -13,7 +13,7 @@
 
 ## SUMMERY
 
-![pic](/img/tat.png 'myPhoto')
+![pic](https://tetlisna.github.io/rsschool-cv/img/tat.png 'myPhoto')
 
 > I am junior front-end developer. My aim is to make great and competitive web applications. I'm excited to keep learning and growing my skills in this field, and I'm currently studying TypeScript to become even better.
 
