@@ -62,19 +62,19 @@ function sortByBit(arr) {
 1. Programmed as part of a team on small project in ReactJS Marathon of **SoftServe IT Academy**.
 
 > - build Material UI site --- **[ReactJS, Material UI ]**
-> - [link to github >>>](https://github.com/ita-react-marathon-sprint-material-ua/material-ui-team-nr-6)
+> - [link to github](https://github.com/ita-react-marathon-sprint-material-ua/material-ui-team-nr-6)
 
 2. Created a simple web shop using singleton pattern in JS:
 
-> - create instance of an object and built a shop with cart and products from json file --- **[JavaScript, HTML, Tailwind/css, Node.js ]** 
-> - [link to github >>>](https://github.com/tetlisna/myprojectJS2)  
-> - [link to netifly >>>](https://first-adapted-site.netlify.app)
+> - create instance of an object and built a shop with cart and products from json file --- **[JavaScript, HTML, Tailwind/css, Node.js]** 
+> - [link to github](https://github.com/tetlisna/myprojectJS2)  
+> - [link to netlify](https://first-adapted-site.netlify.app)
 
 3. CV, updating:
 
 > updating a CV --- **[JavaScript, HTML, CSS3, npm ]** 
-> - [link to github >>>](https://github.com/tetlisna/rsschool-cv)
-> - [link to gihub-pages >>>](https://tetlisna.github.io/rsschool-cv)
+> - [link to github](https://github.com/tetlisna/rsschool-cv)
+> - [link to gihub-pages](https://tetlisna.github.io/rsschool-cv)
 
 4. Operated and owned a travel agency since *2009* and gained extensive experience in communication, customer satisfaction, problem-solving, marketing and management.
 
