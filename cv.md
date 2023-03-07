@@ -63,7 +63,7 @@ function sortByBit(arr) {
  .......................................................................................... __[JavaScript, HTML, tailwind/css ]__ 
     [link to github >>>](https://github.com/tetlisna/myprojectJS2)                         
     [link to netifly >>>](https://first-adapted-site.netlify.app)
-- I have owned a travel agency since 2009. I've gained extensive experience in communication, customer satisfaction, problem-solving, marketing and management.
+- owned a travel agency since 2009 and gained extensive experience in communication, customer satisfaction, problem-solving, marketing and management.
 
 ## Language
 
