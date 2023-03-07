@@ -12,7 +12,8 @@
 - **Discord:** tetlisna
 
 ## SUMMERY
-![pic](/img/tat.png "myPhoto")
+
+![pic](/img/tat.png 'myPhoto')
 
 > I am junior front-end developer. My aim is to make great and competitive web applications. I'm excited to keep learning and growing my skills in this field, and I'm currently studying TypeScript to become even better.
 
@@ -44,32 +45,28 @@ function sortByBit(arr) {
 
 ## Education
 
-- React JS Marathon in SoftServe IT Academy ....... __December 2022__ [certificate CE 10916/2022](https://career.softserveinc.com/en-us/certification/verification)
-    * Redux
-    * Jest unit testing
-    * React Testing library
-    * MUI in React
-- HTML/CSS and Java Script Fundametals in SoftServe IT Academy
-- Responsive Web Design ....... __August 2022__ | [Freecodecamp](https://freecodecamp.org/certification/tetlisna/responsive-web-design), [Codewars](https://www.codewars.com/users/tetlisna)
-    
+- React JS Marathon in **SoftServe IT Academy** ....... *December 2022* | [certificate CE 10916/2022](https://career.softserveinc.com/en-us/certification/verification)
+  - Redux
+  - Jest unit testing
+  - React Testing library
+  - MUI in React
+- HTML/CSS and Java Script Fundametals in **SoftServe IT Academy** ....... *September 2022* |
+- Responsive Web Design **Freecodecamp** ....... *August 2022* | [Freecodecamp](https://freecodecamp.org/certification/tetlisna/responsive-web-design), [Codewars](https://www.codewars.com/users/tetlisna)
 
 ## Experience
 
-- worked as part of a team on small project in ReactJS Marathon of **SoftServe IT Academy**, our task was to build Material UI site 
-...........................................................................................
- __[ReactJS, Material UI ]__ 
- [link to github >>>](https://github.com/ita-react-marathon-sprint-material-ua/material-ui-team-nr-6)
-- created a simple web shop using singleton pattern in JS:
- .......................................................................................... 
- __[JavaScript, HTML, Tailwind/css, Node.js ]__ 
-    [link to github >>>](https://github.com/tetlisna/myprojectJS2)                         
-    [link to netifly >>>](https://first-adapted-site.netlify.app)
-- CV:
- .......................................................................................... 
- __[JavaScript, HTML, CSS3]__ 
-    [link to github >>>](https://github.com/tetlisna/myprojectJS2)                         
-    [link to gihubpages >>>](https://tetlisna.github.io/rsschool-cv)
-- owned a travel agency since 2009 and gained extensive experience in communication, customer satisfaction, problem-solving, marketing and management.
+1. Programmed as part of a team on small project in ReactJS Marathon of **SoftServe IT Academy**. 
+   > - build Material UI site --- **[ReactJS, Material UI ]**
+   > - [link to github >>>](https://github.com/ita-react-marathon-sprint-material-ua/material-ui-team-nr-6)
+2. Created a simple web shop using singleton pattern in JS:
+   > - create instance of an object and built a shop with cart and products from json file --- **[JavaScript, HTML, Tailwind/css, Node.js ]** 
+   > - [link to github >>>](https://github.com/tetlisna/myprojectJS2)  
+   > - [link to netifly >>>](https://first-adapted-site.netlify.app)
+3. CV, updating:
+   > updating a CV --- **[JavaScript, HTML, CSS3, npm ]** 
+   > - [link to github >>>](https://github.com/tetlisna/rsschool-cv)  
+   > - [link to gihub-pages >>>](https://tetlisna.github.io/rsschool-cv)
+4. Operated and owned a travel agency since *2009* and gained extensive experience in communication, customer satisfaction, problem-solving, marketing and management.
 
 ## Language
 
