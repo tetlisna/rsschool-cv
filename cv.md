@@ -2,7 +2,6 @@
 
 ## CONTACTS
 
----
 
 - **Address:** Ivano-Frankivsk, Ukraine
 - **Phone:** +380503050564
@@ -11,7 +10,6 @@
 - **GitHub:** [tetlisna](https://www.linkedin.com/in/tanyalisna/)
 - **Discord:** tetlisna
 
----
 
 ## SUMMERY
 
@@ -19,7 +17,6 @@
 
 > I am junior front-end developer. My aim is to make great and competitive web applications. I'm excited to keep learning and growing my skills in this field, and I'm currently studying TypeScript to become even better.
 
----
 
 ## SKILLS
 
@@ -34,7 +31,6 @@
 - Mac OS, Linux(Ubuntu)
 - Editors: Sublime, VS Code
 
----
 
 ## CODE EXAMPLES
 
@@ -48,20 +44,18 @@ function sortByBit(arr) {
 }
 ```
 
----
 
 ## EDUCATION
 
-- React JS Marathon in **SoftServe IT Academy** ....... *December 2022* | [certificate CE 10916/2022](https://career.softserveinc.com/en-us/certification/verification)
+- React JS Marathon in **SoftServe IT Academy** ....... *December 2022*  [certificate CE 10916/2022](https://career.softserveinc.com/en-us/certification/verification)
   - Redux
   - Jest unit testing
   - React Testing library
   - MUI in React
 - HTML/CSS and Java Script Fundametals in **SoftServe IT Academy** ....... *September 2022* |
-- Responsive Web Design **Freecodecamp** ....... *August 2022* | [Freecodecamp](https://freecodecamp.org/certification/tetlisna/responsive-web-design), [Codewars](https://www.codewars.com/users/tetlisna)
+- Responsive Web Design **Freecodecamp** ....... *August 2022*  [Freecodecamp](https://freecodecamp.org/certification/tetlisna/responsive-web-design), [Codewars](https://www.codewars.com/users/tetlisna)
 - Bachelor in Accounting - **Poltava Polytechnic University,** *2008*
 
---- 
 
 ## EXPERIENCE
 
@@ -84,7 +78,6 @@ function sortByBit(arr) {
 
 4. Operated and owned a travel agency since *2009* and gained extensive experience in communication, customer satisfaction, problem-solving, marketing and management.
 
----
 
 ## LANGUAGE
 
