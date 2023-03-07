@@ -18,7 +18,7 @@
 
 ## SKILLS
 
-- HTML / CSS (BEM methodology)
+- HTML / CSS3 (BEM methodology)
 - Bootsrap, TailwindCss frameworks
 - JavaScript (OOP, Asynchronous JavaScript, ES6+, DOM), JSON
 - React JS, Redux, MUI (Material U)
@@ -50,7 +50,7 @@ function sortByBit(arr) {
     * React Testing library
     * MUI in React
 - HTML/CSS and Java Script Fundametals in SoftServe IT Academy
-- Responsive Web Design ....... __August 2022__ [Freecodecamp](https://freecodecamp.org/certification/tetlisna/responsive-web-design), [Codewars](https://www.codewars.com/users/tetlisna)
+- Responsive Web Design ....... __August 2022__ | [Freecodecamp](https://freecodecamp.org/certification/tetlisna/responsive-web-design), [Codewars](https://www.codewars.com/users/tetlisna)
     
 
 ## Experience
@@ -60,9 +60,15 @@ function sortByBit(arr) {
  __[ReactJS, Material UI ]__ 
  [link to github >>>](https://github.com/ita-react-marathon-sprint-material-ua/material-ui-team-nr-6)
 - created a simple web shop using singleton pattern in JS:
- .......................................................................................... __[JavaScript, HTML, tailwind/css ]__ 
+ .......................................................................................... 
+ __[JavaScript, HTML, Tailwind/css, Node.js ]__ 
     [link to github >>>](https://github.com/tetlisna/myprojectJS2)                         
     [link to netifly >>>](https://first-adapted-site.netlify.app)
+- CV:
+ .......................................................................................... 
+ __[JavaScript, HTML, CSS3]__ 
+    [link to github >>>](https://github.com/tetlisna/myprojectJS2)                         
+    [link to gihubpages >>>](https://tetlisna.github.io/rsschool-cv)
 - owned a travel agency since 2009 and gained extensive experience in communication, customer satisfaction, problem-solving, marketing and management.
 
 ## Language
