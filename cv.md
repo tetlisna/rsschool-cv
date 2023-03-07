@@ -13,7 +13,7 @@
 
 ## SUMMERY
 
-![pic](../img/tat.png 'myPhoto')
+![pic](/img/tat.png 'myPhoto')
 
 > I am junior front-end developer. My aim is to make great and competitive web applications. I'm excited to keep learning and growing my skills in this field, and I'm currently studying TypeScript to become even better.
 
@@ -52,7 +52,7 @@ function sortByBit(arr) {
   - Jest unit testing
   - React Testing library
   - MUI in React
-- HTML/CSS and Java Script Fundametals in **SoftServe IT Academy** ....... *September 2022* |
+- HTML/CSS and Java Script Fundametals in **SoftServe IT Academy** ....... *September 2022*
 - Responsive Web Design **Freecodecamp** ....... *August 2022*  [Freecodecamp](https://freecodecamp.org/certification/tetlisna/responsive-web-design), [Codewars](https://www.codewars.com/users/tetlisna)
 - Bachelor in Accounting - **Poltava Polytechnic University,** *2008*
 
