@@ -1,1 +1,1 @@
-https://tetlisna.github.io/rsschool-cv
+https://tetlisna.github.io/rsschool-cv/cv
