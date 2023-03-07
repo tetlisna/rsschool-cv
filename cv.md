@@ -2,7 +2,6 @@
 
 ## CONTACTS
 
-
 - **Address:** Ivano-Frankivsk, Ukraine
 - **Phone:** +380503050564
 - **E-mail:** <tplovic@gmail.com>
